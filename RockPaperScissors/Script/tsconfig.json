@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "system",
+    "noImplicitAny": true,
+    "removeComments": false,
+    "preserveConstEnums": true,
+    //"outFile": "Script/TypeScript2.js",
+    "outDir": "Script",
+    "sourceMap": true
+    //"watch": true
+  },
+  "include": [ "**/*" ],
+  "exclude": [ "img", "js" ]
+}
